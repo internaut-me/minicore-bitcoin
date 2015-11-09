@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "port": 8332,
+  "user": "bitcoinrpc",
+  "pass": "PASSWORD",
+  "timeout": 30000,
+  "miniuser": "miniuser"
+}
